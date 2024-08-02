@@ -2,19 +2,19 @@
 
 # 云之岛 | Yuns-Lab
 
-[![](https://img.shields.io/badge/创始人B站-555555?style=for-the-badge)![](https://img.shields.io/badge/LingyunAwA−CN-00A1D6?style=for-the-badge)](https://space.bilibili.com/1615040823) [![](https://img.shields.io/badge/创始人B站直播间-555555?style=for-the-badge)![](https://img.shields.io/badge/27726467-FF6699?style=for-the-badge)](https://live.bilibili.com/27726467) ![](https://img.shields.io/badge/KOOK%20语音域-555555?style=for-the-badge)![](https://img.shields.io/badge/暂无-111111?style=for-the-badge)
+[![](https://img.shields.io/badge/Owner's%20Bilibili-555555?style=for-the-badge)![](https://img.shields.io/badge/LingyunAwA−CN-00A1D6?style=for-the-badge)](https://space.bilibili.com/1615040823) [![](https://img.shields.io/badge/Owner's%20Bilibili%20Liveroom-555555?style=for-the-badge)![](https://img.shields.io/badge/27726467-FF6699?style=for-the-badge)](https://live.bilibili.com/27726467) [![](https://img.shields.io/badge/Discord%20Server-555555?style=for-the-badge)![](https://img.shields.io/badge/1268535149633601627-111111?style=for-the-badge)](https://discord.gg/invite/5WjH5kkumb)
 
 ---
 
-### Hi，这里是凌云开发组！我们欢迎任何想要做出贡献的人来到我们团队！
+### Hi, this is the Yuns-Lab Development Group! We welcome anyone who wants to contribute to our team!
 
-### 团队主要使用的开发语言如下
+### The main development language used by the team is as follows
 
 ![](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge) ![](https://img.shields.io/badge/Python-3872A3?style=for-the-badge) ![](https://img.shields.io/badge/Vue-42B883?style=for-the-badge) ![](https://img.shields.io/badge/Rust-E43717?style=for-the-badge)
 
 ---
 
-### 项目分组
+### Project Group
 
 #### Yun Launcher
 
