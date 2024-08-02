@@ -18,10 +18,10 @@
 
 #### Yun Launcher
 
-| 具体名称                                                            | 状态                                                                | 发布版本                                                          | LTS/EoL                                                           |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 具体名称                                                                                                  | 状态                                                                | 发布版本                                                          | LTS/EoL                                                           |
+| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | [![](https://img.shields.io/badge/YunMCL-91F69E?style=for-the-badge)](https://github.com/Yuns-Lab/YunMCL) | ![](https://img.shields.io/badge/开发中-0E7FE9?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) |
-| ![](https://img.shields.io/badge/YunMSL-90F5F3?style=for-the-badge) | ![](https://img.shields.io/badge/设计中-C678DD?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) |
-| ![](https://img.shields.io/badge/YunMCCM-F59090?style=for-the-badge) | ![](https://img.shields.io/badge/设计中-C678DD?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) |
+| ![](https://img.shields.io/badge/YunMSL-90F5F3?style=for-the-badge)                                       | ![](https://img.shields.io/badge/设计中-C678DD?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) |
+| ![](https://img.shields.io/badge/YunMCCM-F59090?style=for-the-badge)                                      | ![](https://img.shields.io/badge/设计中-C678DD?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) |
 
 </div>
