@@ -1,27 +1,26 @@
 <div align="center">
 
-# 云之岛 | Yuns-Lab
+<img src="https://github.com/user-attachments/assets/9ddf1a56-40ac-48d8-aa3b-52730a034278" width="600">
 
-[![](https://img.shields.io/badge/创始人B站-555555?style=for-the-badge)![](https://img.shields.io/badge/LingyunAwA−CN-00A1D6?style=for-the-badge)](https://space.bilibili.com/1615040823) [![](https://img.shields.io/badge/创始人B站直播间-555555?style=for-the-badge)![](https://img.shields.io/badge/27726467-FF6699?style=for-the-badge)](https://live.bilibili.com/27726467) ![](https://img.shields.io/badge/KOOK%20语音域-555555?style=for-the-badge)![](https://img.shields.io/badge/暂无-111111?style=for-the-badge)
+# 云之岛开发组 | Yuns-Lab
 
----
-
-### Hi，这里是凌云开发组！我们欢迎任何想要做出贡献的人来到我们团队！
-
-### 团队主要使用的开发语言如下
-
-![](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge) ![](https://img.shields.io/badge/Python-3872A3?style=for-the-badge) ![](https://img.shields.io/badge/Vue-42B883?style=for-the-badge) ![](https://img.shields.io/badge/Rust-E43717?style=for-the-badge)
+[![](https://img.shields.io/badge/B站官方账户-555555?style=for-the-badge)![](https://img.shields.io/badge/云之岛开发组-00A1D6?style=for-the-badge)](https://space.bilibili.com/3546632664648343) [![](https://img.shields.io/badge/创始人B站直播间-555555?style=for-the-badge)![](https://img.shields.io/badge/27726467-FF6699?style=for-the-badge)](https://live.bilibili.com/27726467) [![](https://img.shields.io/badge/KOOK%20语音域-555555?style=for-the-badge)![](https://img.shields.io/badge/11602154-6CBF00?style=for-the-badge)](https://kook.top/cdxiiz)
 
 ---
 
-### 项目分组
+### 🎉 欢迎来到云之岛开发组的 GitHub 组织 🎉
+在这里我们将会开源一些前端相关资料、作品等团队成员努力的成果 \
+同时你可以在组织的 [Dicussion 大区](https://github.com/orgs/Yuns-Lab/discussions) 和我们互动
 
-#### Yun Launcher
+---
 
-| 具体名称                                                                                                  | 状态                                                                | 开发总时长                                                                                                                                     | 发布版本                                                          | LTS/EoL                                                           |
-| --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [![](https://img.shields.io/badge/YunMCL-91F69E?style=for-the-badge)](https://github.com/Yuns-Lab/YunMCL) | ![](https://img.shields.io/badge/开发中-0E7FE9?style=for-the-badge) ![](https://img.shields.io/badge/重新设计%20UI%20中-C678DD?style=for-the-badge) | ![](https://wakatime.com/badge/user/33b7ee7a-7230-4fb3-bca8-c9ec79211310/project/06812b9a-2154-4021-9540-0f5e1350a967.svg?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) |
-| ![](https://img.shields.io/badge/YunMSL-90F5F3?style=for-the-badge)                                       | ![](https://img.shields.io/badge/设计%20UI%20中-C678DD?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge)                                                                              | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) |
-| ![](https://img.shields.io/badge/YunMCCM-F59090?style=for-the-badge)                                      | ![](https://img.shields.io/badge/设计%20UI%20中-C678DD?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge)                                                                              | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) | ![](https://img.shields.io/badge/NULL-EC6319?style=for-the-badge) |
+### 🙍 我们现在的人手非常少 🙍
+由于团队刚起步不久，开发人员十分的稀少 ~~实际上只有队长 @JingHai-Lingyun 一人~~ \
+如果你对前端技术感兴趣，并愿意加入我们的团队的话，请联系队长 \
+加入团队是有门槛的，但是不必过多担心，只要你有基础前端知识基本上都能加入
+
+---
+
+Copyright © 2024 Yuns-Lab, All rights reserved
 
 </div>
