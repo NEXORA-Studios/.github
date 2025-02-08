@@ -4,8 +4,8 @@
 
 # 云之岛开发组 | Yuns-Lab
 
-[![](https://img.shields.io/badge/B站官方账户-555555?style=for-the-badge)![](https://img.shields.io/badge/云之岛开发组-00A1D6?style=for-the-badge)]
-<!--(https://space.bilibili.com/3546632664648343) [![](https://img.shields.io/badge/创始人B站直播间-555555?style=for-the-badge)![](https://img.shields.io/badge/27726467-FF6699?style=for-the-badge)](https://live.bilibili.com/27726467) [![](https://img.shields.io/badge/KOOK%20语音域-555555?style=for-the-badge)![](https://img.shields.io/badge/90319152-6CBF00?style=for-the-badge)](https://kook.vip/WgIBJy)-->
+[![](https://img.shields.io/badge/B站官方账户-555555?style=for-the-badge)![](https://img.shields.io/badge/云之岛开发组-00A1D6?style=for-the-badge)](https://space.bilibili.com/3546632664648343)
+<!-- [![](https://img.shields.io/badge/创始人B站直播间-555555?style=for-the-badge)![](https://img.shields.io/badge/27726467-FF6699?style=for-the-badge)](https://live.bilibili.com/27726467) [![](https://img.shields.io/badge/KOOK%20语音域-555555?style=for-the-badge)![](https://img.shields.io/badge/90319152-6CBF00?style=for-the-badge)](https://kook.vip/WgIBJy)-->
 
 ---
 
