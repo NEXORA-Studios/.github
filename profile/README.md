@@ -1,6 +1,6 @@
 <div align="center">
 
-![NEXORA Text](https://github.com/user-attachments/assets/7df31adf-3a62-4069-afe5-bd5d0d314e03)
+![NEXORA Studios Logo](https://github.com/user-attachments/assets/052d2a75-4449-4e5b-bc47-c0937ae61798)
 
 # NEXORA Studios | 探索未来，创新无限 🚀
 
