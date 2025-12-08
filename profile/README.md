@@ -1,6 +1,6 @@
 <div align="center">
 
-![NEXORA Studios Logo](./TextLogo-Full.png)
+![NEXORA Studios Logo](./LargeTextLogo-Full.png)
 
 # 🚀 NEXORA Studios | 探索未来，创新无限 🚀
 
