@@ -1,13 +1,14 @@
 <div align="center">
 
-![NEXORA Studios Logo](https://github.com/user-attachments/assets/052d2a75-4449-4e5b-bc47-c0937ae61798)
+![NEXORA Studios Logo](./TextLogo-Full.png)
 
 # 🚀 NEXORA Studios | 探索未来，创新无限 🚀
 
 欢迎来到 NEXORA Studios！我们是一支专注于 前端开发 与 游戏附属软件 的团队，\
 致力于打造高质量的应用、游戏启动器和工具，为用户提供更流畅、更智能的体验。
 
-## 🔹 我们的方向 🔹 
+## 🔹 我们的方向 🔹
+
 · 前端开发（React、Vue、TypeScript 等）\
 · 游戏工具开发（启动器、模组管理器、API 集成等）\
 · UI/UX 设计与交互优化\
